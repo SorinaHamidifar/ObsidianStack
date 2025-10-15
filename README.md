@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
 # ---------- core/security.py ----------
 """
-Security and data protection utilities.
+Security and data protection utilit.
 Handles hashing, encryption, and safe validation logic.
 """
 
