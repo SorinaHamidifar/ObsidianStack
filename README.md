@@ -7,7 +7,7 @@
 
 # ---------- main.py ----------
 """
-Main entry point for the  Foundation.
+Main entry point for the Solid Foundation.
 """
 
 from core import security, infrastructure
