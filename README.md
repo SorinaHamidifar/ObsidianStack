@@ -14,7 +14,7 @@ from core import security, infrastructure
 
 
 def run():
-    print("🧱 SolidCore Foundation Initialized")
+    print("🧱 SolidCore Foundation ")
     print("🔒 Secure | ⚙️ Scalable | 🧩 Future-Proof\n")
 
     # Demo: hashing + config system
