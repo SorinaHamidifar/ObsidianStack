@@ -33,7 +33,7 @@ Security and data protection utilities.
 Handles hashing, encryption, and safe validation logic.
 """
 
-import hashlib hashing
+import hashlib hash
 
 def hash_text(text: str) -> str:
     """Return a SHA-256 hash of the given text."""
