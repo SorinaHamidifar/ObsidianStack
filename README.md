@@ -30,7 +30,7 @@ if __name__ == "__main__":
 # ---------- core/security.py ----------
 """
 Security and data protection utilities.
-Handles hashing, encryption, and safe validation logic.
+Handles hashing, encryption, and safe validation logicx.
 """
 
 import hashlib
