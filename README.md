@@ -39,7 +39,7 @@ def hash_text(text: str) -> str:
     """Return a SHA-256 hash of the given text."""
     return hashlib.sha256(text.encode('utf-8')).hexdigest()
 
-def validate_passord_strength(password: str) -> bool:
+def validate_password_strength(password: str) -> bool:
     """
     Basic password strength validator.
     At least 8 chars, contains a digit and uppercase letter.
