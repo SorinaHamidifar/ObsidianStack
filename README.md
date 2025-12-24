@@ -2,7 +2,7 @@
 # Project: SolidCore Foundation 
 # Description:
 # A rock-solid foundation for scalable and secure projects.
-# Focused on creating robust, well-structured, and future-prf code.
+# Focused on creating robust, well-structured, and future-prof code.
 # ================================
 
 # ---------- main.py ----------
