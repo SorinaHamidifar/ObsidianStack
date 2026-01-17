@@ -65,7 +65,7 @@ from pathlib import Path
 CONFIG_PATH = Path(__file__).parent / "config.json"
 
 def load_config() -> dict:
-    """Load a configuration file (or create default if missing)."""
+    """Load a  file (or create default if missing)."""
     default_config = {
         "version": "1.0.0",
         "logging": True,
