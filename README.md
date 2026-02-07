@@ -1,5 +1,5 @@
 # ================================
-# Project: SolidCore Foundation future-proof
+# Project: SolidCore Foundation future-
 # Description:
 # A rock-solid foundation for scalable and secure projects.
 # Focused on creating robust, well-structured, and future-proof code.
