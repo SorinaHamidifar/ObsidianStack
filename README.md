@@ -15,7 +15,7 @@ from core import security, infrastructure
 
 def run():
     print("🧱 SolidCore Foundation Initialized")
-    print("🔒 Secure | ⚙️ Scalable | 🧩 Futur\n")
+    print("🔒 Secure | ⚙️ Scalable | 🧩 Future-\n")
 
     # Demo: hashing + config system
     message = "Build strong code!"
