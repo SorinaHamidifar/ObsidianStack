@@ -42,7 +42,7 @@ def hash_text(text: str) -> str:
 def validate_password_strength(password: str) -> bool:
     """
     Basic password strength validator.
-    At least 8 chars, contains a digit and uppercase letter.
+    At least 8 chars, contains a digit and upperc letter.
     """
     if len(password) < 8:
         return False
