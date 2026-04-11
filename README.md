@@ -1,7 +1,7 @@
 # ================================
 # Project: SolidCore Foundation
 # Description:
-# A rock foundation for scalable and secure projects.
+# A rock-so foundation for scalable and secure projects.
 # Focused on creating robust, well-structured, and future-proof code.
 # ================================
 
