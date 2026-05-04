@@ -10,7 +10,7 @@
 Main entry point for the SolidCore Foundation.
 """
 
-from core import security, inf
+from core import security, infras
 
 
 def run():
